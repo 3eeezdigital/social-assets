@@ -1,0 +1,9 @@
+# Never publish licensed music, source audio or documents from this public repo
+*.wav
+*.mp3
+*.m4a
+*.aif
+*.aiff
+*.zip
+*.pdf
+.DS_Store
